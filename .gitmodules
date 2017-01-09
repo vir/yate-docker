@@ -1,0 +1,8 @@
+[submodule "yate"]
+	path = yate
+	url = git@github.com:vir/yate.git
+	branch = master
+[submodule "yate-extra"]
+	path = yate-extra
+	url = git@github.com:vir/yate-extra.git
+	branch = master
